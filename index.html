@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <script type="text/javascript" src="./accessCode.js"></script>
         <link rel="stylesheet" href="./stylesheet.css" type="text/css">
         <title>Process Completed - Part 2</title>
     </head>
     <body>
-        <div class="center_wrapper">
+        <div class="center-wrapper">
             <h1>Enter Access Code:</h1>
-            <input type="text">
-            <button type="button">Submit</button>
+            <p id="incorrectText" style="color: red; background-color: lightgray;"></p>
+            <input id="codeInput" type="text">
+            <button type="button" onclick="checkAccessCode()">Submit</button>
         </div>
+        <footer class="footer">
+            <p class="footer-content">Created by TangledWiresYT, you can find the source code <a href="https://github.com/TangledWiresYT/process-completed">here</a></p>
+        </footer>
     </body>
 </html>

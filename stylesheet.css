@@ -1,3 +1,12 @@
-.center_wrapper {
+.center-wrapper {
     text-align: center;
+}
+
+.footer-content {
+    color: gray;
+    
+}
+
+.footer-content a {
+    color: darkgray;
 }
