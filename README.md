@@ -2,6 +2,18 @@
 
 Trying to rickroll people
 
+**Part Zero**
+
+[TRANSMISSION RECIEVED]
+
+1 file downloaded:
+
+backup.zip
+
+[END OF TRANSMISSION]
+
+PROCESS COMPLETED
+
 **Part One**
 
 \[ZIP] Extracted files from archive "backup.zip":
